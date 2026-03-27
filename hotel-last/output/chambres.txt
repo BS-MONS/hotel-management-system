@@ -1,0 +1,21 @@
+101
+Standard
+950
+102
+Junior
+650
+201
+VIP
+9000
+207
+Bungalow prive
+15000
+250
+Suite presidentielle
+18000
+301
+Suite Royale
+8000
+209
+Deluxe
+5000

@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1767696163 source:c:\users\xyzha\desktop\hotellll\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<limits>
+	<thread>
+	<chrono>
+	<fstream>
+	<ctime>
+	<iomanip>
+	<sstream>
+	<map>
+	<conio.h>
+
+1767841300 source:c:\users\xyzha\desktop\test\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<limits>
+	<thread>
+	<chrono>
+	<fstream>
+	<ctime>
+	<iomanip>
+	<sstream>
+	<map>
+	<conio.h>
+	<windows.h>
+
+1767841532 source:c:\users\xyzha\desktop\hotel 1\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<limits>
+	<thread>
+	<chrono>
+	<fstream>
+	<ctime>
+	<iomanip>
+	<sstream>
+	<map>
+	<conio.h>
+	<windows.h>
+

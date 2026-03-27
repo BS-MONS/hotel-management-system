@@ -1,0 +1,14 @@
+Spa
+300
+Restaurant
+700
+Piscine privee
+250
+Minibar
+850
+Pressing
+125
+Nettoyage express
+450
+Baby-sitting
+350

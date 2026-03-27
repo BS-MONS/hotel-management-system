@@ -1,0 +1,84 @@
+1
+1
+101
+2026-01-20
+2026-01-25
+5
+7775
+haythame
+21
+0657527571
+950
+Carte bancaire
+0
+7
+Spa
+300
+Restaurant
+700
+Piscine privee
+250
+Minibar
+850
+Pressing
+125
+Nettoyage express
+450
+Baby-sitting
+350
+2
+2
+207
+2026-01-09
+2026-01-17
+8
+79025
+maximm
+23
+065752757111
+9500
+Cash
+0
+7
+Spa
+300
+Restaurant
+700
+Piscine privee
+250
+Minibar
+850
+Pressing
+125
+Nettoyage express
+450
+Baby-sitting
+350
+11
+11
+209
+2026-01-14
+2026-01-19
+5
+27775
+jdidou
+35
+0652525
+5000
+Carte bancaire
+0
+7
+Spa
+300
+Restaurant
+400
+Piscine privee
+250
+Minibar
+850
+Pressing
+125
+Nettoyage express
+450
+Baby-sitting
+400

@@ -1,0 +1,30 @@
+101
+Standard
+850
+102
+Junior
+650
+201
+VIP
+8500
+207
+Bungalow prive
+9500
+250
+Suite presidentielle
+18000
+301
+Suite Royale
+8000
+209
+Deluxe
+5000
+103
+Standard
+850
+104
+Standard
+850
+401
+Penthouse
+25000

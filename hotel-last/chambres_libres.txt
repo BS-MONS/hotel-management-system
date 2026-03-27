@@ -1,0 +1,9 @@
+Chambres libres le 2026-01-13
+Numero	Type	Prix
+101	Standard	850
+207	Bungalow prive	9500
+250	Suite presidentielle	18000
+209	Deluxe	5000
+103	Standard	850
+104	Standard	850
+401	Penthouse	25000

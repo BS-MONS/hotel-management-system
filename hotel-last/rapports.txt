@@ -1,0 +1,35 @@
+========================================
+TYPE: SIGNALEMENT CLIENT
+DATE: Thu Jan 08 02:36:47 2026
+CLIENT: haythame
+SUJET: les frix
+CONTENU:
+test test
+========================================
+
+========================================
+TYPE: SIGNALEMENT CLIENT
+DATE: Fri Jan 09 10:15:22 2026
+CLIENT: Sarah Connor
+SUJET: Service excellent
+CONTENU:
+Le spa etait magnifique. Merci pour tout.
+========================================
+========================================
+TYPE: SIGNALEMENT CLIENT
+DATE: Tue Jan 13 10:22:33 2026
+CLIENT: alae
+SUJET: proprete
+CONTENU:
+test
+========================================
+
+========================================
+TYPE: SIGNALEMENT CLIENT
+DATE: Tue Jan 13 11:39:35 2026
+CLIENT: alae
+SUJET: bug
+CONTENU:
+test
+========================================
+
